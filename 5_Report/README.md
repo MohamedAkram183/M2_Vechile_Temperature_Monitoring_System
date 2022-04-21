@@ -49,5 +49,12 @@
 | HLR5_LLR1   | VScode with AVR GCC compiler |
 | HLR5_LLR2   | SimulIDE |
 
+Structural daigram
+
+![proimg1](https://user-images.githubusercontent.com/77711240/164505643-a8e1b50f-6c90-4b36-9ceb-e045e1ed4798.jpeg)
+
+Flowchart
+
+![proimg2](https://user-images.githubusercontent.com/77711240/164505757-e5a90f2e-3320-407b-9dd1-959b59e1d1ef.jpeg)
 
 
