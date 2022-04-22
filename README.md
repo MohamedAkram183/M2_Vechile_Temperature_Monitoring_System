@@ -9,3 +9,5 @@ The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the
 *   Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0d715578def4bcf9682670017d8119d)](https://www.codacy.com/gh/MohamedAkram183/M2_Vechile_Temperature_Monitoring_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MohamedAkram183/M2_Vechile_Temperature_Monitoring_System&amp;utm_campaign=Badge_Grade)
 
 *   Cpp analysis [![Analysis](https://github.com/MohamedAkram183/M2_Vechile_Temperature_Monitoring_System/actions/workflows/analysis.yml/badge.svg)](https://github.com/MohamedAkram183/M2_Vechile_Temperature_Monitoring_System/actions/workflows/analysis.yml)
+
+*   Cpp check [![Cpp-Check](https://github.com/MohamedAkram183/M2_Vechile_Temperature_Monitoring_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MohamedAkram183/M2_Vechile_Temperature_Monitoring_System/actions/workflows/c-cpp.yml)
